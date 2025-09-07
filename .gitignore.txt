@@ -1,2 +1,1 @@
-ml_models/data/row_data_rovere.csv
-ml_models/deployment/model_deploy/row_data_rovere.json
+data/**
